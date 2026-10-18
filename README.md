@@ -1,0 +1,2 @@
+# XteinkStudio
+Xteink向けの文書・画像をXTCに変換するWindowsアプリ
